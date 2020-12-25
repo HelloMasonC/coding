@@ -6,9 +6,9 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 
-class Spider01Pipeline(object):
+class QsautoPipeline(object):
     def process_item(self, item, spider):
-        for i in range(0, len(item["content"])):
-            print("{0}标题：{1};".format(i+1, item["content"][i]))
-            print("{0}链接：https://www.qiushibaike.com{1}。".format(i+1, item["link"][i]))
+        # for i in range(0, len(item["content"])):
+        #     print("{0}标题：{1};".format(i+1, item["content"][i]))
+        #     print("{0}链接：https://www.qiushibaike.com{1}。".format(i+1, item["link"][i]))
         return item
