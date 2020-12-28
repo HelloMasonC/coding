@@ -1,0 +1,760 @@
+标题: 微软 BI 实战入门系列【持续更新中】
+链接: https://edu.hellobi.com/course/1/overview
+学习人数: 1850
+------
+标题: DataStage从入门到精通实践视频教程【精通系列】
+链接: https://edu.hellobi.com/course/46/overview
+学习人数: 22
+------
+标题: 润乾报表2018培训视频
+链接: https://edu.hellobi.com/course/43/overview
+学习人数: 96
+------
+标题: Hadoop 入门及其基础学习【连载更新中】
+链接: https://edu.hellobi.com/course/39/overview
+学习人数: 2462
+------
+标题: 7.25 企业数据化运营沙龙现场录像及演讲 PPT 下载
+链接: https://edu.hellobi.com/course/41/overview
+学习人数: 310
+------
+标题: BI 实际工作典型问题 综合解决方案
+链接: https://edu.hellobi.com/course/45/overview
+学习人数: 1202
+------
+标题: 老头子系列出品公开课之Oracle性能优化系列
+链接: https://edu.hellobi.com/course/48/overview
+学习人数: 1099
+------
+标题: 菜鸟数据教你从零开始学习数据分析 【连载更新中，每周2集同步】
+链接: https://edu.hellobi.com/course/47/overview
+学习人数: 2486
+------
+标题: Microsoft 金牌伙伴 Halo BI 产品教程
+链接: https://edu.hellobi.com/course/36/overview
+学习人数: 198
+------
+标题: SSAS & Excel BI Tips（技巧、原创秘诀）【特权免费系列】
+链接: https://edu.hellobi.com/course/35/overview
+学习人数: 9
+------
+标题: 轻松上手，BI 需求及管理 【免费连载中 每周两集】
+链接: https://edu.hellobi.com/course/38/overview
+学习人数: 3115
+------
+标题: 互联网数据分析师成长之路
+链接: https://edu.hellobi.com/course/198/overview
+学习人数: 153
+------
+标题: DataStage从入门到精通实践视频教程【免费更新】
+链接: https://edu.hellobi.com/course/42/overview
+学习人数: 2095
+------
+标题: 批量调度专家-TASKCTL 学习教程
+链接: https://edu.hellobi.com/course/40/overview
+学习人数: 569
+------
+标题: 问答社区 Cognos 疑难杂症合集【更新中】
+链接: https://edu.hellobi.com/course/44/overview
+学习人数: 447
+------
+标题: 用R语言解读资本资产定价模型
+链接: https://edu.hellobi.com/course/196/overview
+学习人数: 13
+------
+标题: QlikView开发宝典
+链接: https://edu.hellobi.com/course/33/overview
+学习人数: 2460
+------
+标题: 手把手教你使用开源ETL工具kettle
+链接: https://edu.hellobi.com/course/37/overview
+学习人数: 7393
+------
+标题: 解密管理咨询公司—体系化思维，清晰解答老板问题的技巧
+链接: https://edu.hellobi.com/course/199/overview
+学习人数: 311
+------
+标题: SSAS & Excel BI Tips（技巧、原创秘诀）【SSAS高端进阶必备免费课程】
+链接: https://edu.hellobi.com/course/34/overview
+学习人数: 1047
+------
+标题: Hellobi Live | 6月1日 Spark实战-银行实时反欺诈录播（已关闭）
+链接: https://edu.hellobi.com/course/190/overview
+学习人数: 75
+------
+标题: Hellobi Live | 数据蒋堂系列直播课程
+链接: https://edu.hellobi.com/course/197/overview
+学习人数: 250
+------
+标题: 大数据职业规划—解析6大数据晋升之路，带你看清职场发展方向
+链接: https://edu.hellobi.com/course/194/overview
+学习人数: 262
+------
+标题: Hellobi Live | 自然语言处理之-基于深度学习技术的诗歌写作机器人
+链接: https://edu.hellobi.com/course/188/overview
+学习人数: 82
+------
+标题: Hellobi Live | 自然语言处理之-基于深度学习技术的聊天机器人实现
+链接: https://edu.hellobi.com/course/186/overview
+学习人数: 181
+------
+标题: Hellobi Live |【阿里数据系列直播课程】机器学习、数据之旅、数据集成、可视化大屏DataV、数据仓库、数据运营
+链接: https://edu.hellobi.com/course/193/overview
+学习人数: 3276
+------
+标题: Hellobi Live | R语言可视化在商务场景中的应用
+链接: https://edu.hellobi.com/course/195/overview
+学习人数: 356
+------
+标题: 技术精讲、业务实践！阿里人工智能机器学习精品课程
+链接: https://edu.hellobi.com/course/191/overview
+学习人数: 1790
+------
+标题: 重在实战！十五大案例，开启R语言实战之门金钥匙
+链接: https://edu.hellobi.com/course/192/overview
+学习人数: 1168
+------
+标题: Hellobi Live | 人工智能系列直播之Tensorflow实战验证码识别
+链接: https://edu.hellobi.com/course/189/overview
+学习人数: 1253
+------
+标题: 张丹教你如何用R语言开始量化投资
+链接: https://edu.hellobi.com/course/183/overview
+学习人数: 309
+------
+标题: Hellobi Live | 数据挖掘快速上手之R语言实践
+链接: https://edu.hellobi.com/course/178/overview
+学习人数: 182
+------
+标题: Hellobi Live |前支付宝资深数据分析师 面包君带你玩转互联网金融行业的大数据基本应用
+链接: https://edu.hellobi.com/course/187/overview
+学习人数: 317
+------
+标题: Hellobi Live：站在数据角度看《三生三世十里桃花》
+链接: https://edu.hellobi.com/course/184/overview
+学习人数: 863
+------
+标题: Hellobi Live | 抓微博评论，做文本分析
+链接: https://edu.hellobi.com/course/182/overview
+学习人数: 1704
+------
+标题: Spark案例讲解
+链接: https://edu.hellobi.com/course/170/overview
+学习人数: 52
+------
+标题: Spark Streaming课程
+链接: https://edu.hellobi.com/course/169/overview
+学习人数: 47
+------
+标题:  Hellobi Live | 从0起步，走BI业务路线
+链接: https://edu.hellobi.com/course/180/overview
+学习人数: 612
+------
+标题: 业务知识一站通，数据分析师的一堂企业实战课
+链接: https://edu.hellobi.com/course/179/overview
+学习人数: 2005
+------
+标题: Hellobi Live | 手把手教你做文本挖掘
+链接: https://edu.hellobi.com/course/181/overview
+学习人数: 1330
+------
+标题: 自己动手做大数据系统
+链接: https://edu.hellobi.com/course/164/overview
+学习人数: 32
+------
+标题: Hellobi Live | 数据科学入门 - 让数据思维成为生活的一部分
+链接: https://edu.hellobi.com/course/175/overview
+学习人数: 1829
+------
+标题: 征服Spark SQL
+链接: https://edu.hellobi.com/course/162/overview
+学习人数: 51
+------
+标题: 微课录播 | 03月14日 GA系列分享1 - 学好Google Analytics之高端实践
+链接: https://edu.hellobi.com/course/160/overview
+学习人数: 0
+------
+标题: Spark生态圈数据分析课程
+链接: https://edu.hellobi.com/course/168/overview
+学习人数: 606
+------
+标题: 求职必胜，提高面试成功率靠谱攻略
+链接: https://edu.hellobi.com/course/165/overview
+学习人数: 771
+------
+标题: Hellobi Live | 人人都是模型师，CRM、运营分析、财务绩效三部曲
+链接: https://edu.hellobi.com/course/166/overview
+学习人数: 1461
+------
+标题: Hellobi Live | 人工智能系列直播之从BI到AI，数据分析从业人员的的转型
+链接: https://edu.hellobi.com/course/167/overview
+学习人数: 784
+------
+标题: Google Analytics谷歌分析（GA）触脉咨询系列分享 
+链接: https://edu.hellobi.com/course/161/overview
+学习人数: 491
+------
+标题: Hellobi Live | 爬取知乎所有用户详细信息
+链接: https://edu.hellobi.com/course/163/overview
+学习人数: 3335
+------
+标题: 人人都爱数据科学家！Python数据科学先进实战课程
+链接: https://edu.hellobi.com/course/159/overview
+学习人数: 1648
+------
+标题: 从0起步，走BI业务路线（升级版）
+链接: https://edu.hellobi.com/course/153/overview
+学习人数: 209
+------
+标题: Hellobi Live | IBM-数据科学方法及机器学习案例分享
+链接: https://edu.hellobi.com/course/154/overview
+学习人数: 463
+------
+标题: 自己动手，丰衣足食！Python3网络爬虫实战案例
+链接: https://edu.hellobi.com/course/157/overview
+学习人数: 2273
+------
+标题: 先机致胜，破冰AI！深度学习模型、框架与实战！
+链接: https://edu.hellobi.com/course/158/overview
+学习人数: 997
+------
+标题: Spark分布式集群搭建
+链接: https://edu.hellobi.com/course/149/overview
+学习人数: 39
+------
+标题: Hellobi Live | 数据分析师如何理解和发现需求及利用数据驱动业务
+链接: https://edu.hellobi.com/course/152/overview
+学习人数: 1809
+------
+标题: Python3爬虫三大案例实战分享
+链接: https://edu.hellobi.com/course/156/overview
+学习人数: 16405
+------
+标题: Hellobi Live | Python机器学习案例实战-贷款利润
+链接: https://edu.hellobi.com/course/150/overview
+学习人数: 1418
+------
+标题: Hellobi Live | 人工智能系列直播之揭开人工智能的神秘面纱
+链接: https://edu.hellobi.com/course/147/overview
+学习人数: 863
+------
+标题: 概率论和统计建模—基础篇
+链接: https://edu.hellobi.com/course/146/overview
+学习人数: 1479
+------
+标题: Hellobi Live | 平凡之处见真章！Excel透视表实战
+链接: https://edu.hellobi.com/course/145/overview
+学习人数: 1076
+------
+标题: Hellobi Live | 如何撰写一份优质的数据分析报告
+链接: https://edu.hellobi.com/course/148/overview
+学习人数: 1907
+------
+标题: 案例为师、实战为王，开启Python机器学习之路
+链接: https://edu.hellobi.com/course/144/overview
+学习人数: 1120
+------
+标题: Hellobi Live | Spark网站流量异常大规模检测案例实战
+链接: https://edu.hellobi.com/course/141/overview
+学习人数: 372
+------
+标题: 从0起步，走BI业务路线 - 入门
+链接: https://edu.hellobi.com/course/140/overview
+学习人数: 1597
+------
+标题: 机器学习讲解与实例解析
+链接: https://edu.hellobi.com/course/143/overview
+学习人数: 2365
+------
+标题: Hellobi Live | 机器学习技术在Python语言的商业应用
+链接: https://edu.hellobi.com/course/138/overview
+学习人数: 1615
+------
+标题: SAS从菜鸟到高手 之 轻松上手
+链接: https://edu.hellobi.com/course/139/overview
+学习人数: 891
+------
+标题: Hellobi Live | Oracle大数据分析之数据探索在金融业的应用
+链接: https://edu.hellobi.com/course/142/overview
+学习人数: 540
+------
+标题: Python机器学习kaggle案例
+链接: https://edu.hellobi.com/course/137/overview
+学习人数: 2963
+------
+标题: 基本统计方法及其在R中的实现
+链接: https://edu.hellobi.com/course/134/overview
+学习人数: 1206
+------
+标题: Hellobi Live | 需求链驱动数据化的零售生意
+链接: https://edu.hellobi.com/course/135/overview
+学习人数: 517
+------
+标题: 对话大数据系列技术 从破冰到精进
+链接: https://edu.hellobi.com/course/136/overview
+学习人数: 1308
+------
+标题: 用数据说话-Excel BI商业智能分析零基础精讲课程 
+链接: https://edu.hellobi.com/course/133/overview
+学习人数: 1203
+------
+标题: 数据分析报告制作秘籍升级版
+链接: https://edu.hellobi.com/course/132/overview
+学习人数: 1239
+------
+标题: R语言进阶篇：数据挖掘平台原型搭建 
+链接: https://edu.hellobi.com/course/129/overview
+学习人数: 383
+------
+标题: R语言进阶篇：行业案例分享 
+链接: https://edu.hellobi.com/course/130/overview
+学习人数: 480
+------
+标题: Hellobi Live | 民生银行用户画像搭建与应用
+链接: https://edu.hellobi.com/course/131/overview
+学习人数: 3078
+------
+标题: R语言高级提升篇：数据挖掘算法之机器学习篇 
+链接: https://edu.hellobi.com/course/126/overview
+学习人数: 465
+------
+标题: R语言冲刺篇：数据挖掘可视化工具：Rattle篇
+链接: https://edu.hellobi.com/course/128/overview
+学习人数: 388
+------
+标题: R语言高级提升篇：数据挖掘算法之模型评估篇 
+链接: https://edu.hellobi.com/course/127/overview
+学习人数: 389
+------
+标题: 微软Power BI高端视频教程
+链接: https://edu.hellobi.com/course/121/overview
+学习人数: 126
+------
+标题: R语言高级提升篇：数据挖掘算法之统计模型篇
+链接: https://edu.hellobi.com/course/125/overview
+学习人数: 526
+------
+标题: Hellobi Live | 数据分析师成长之路
+链接: https://edu.hellobi.com/course/124/overview
+学习人数: 1979
+------
+标题: Hellobi Live | 利用R语言做数据可视化
+链接: https://edu.hellobi.com/course/123/overview
+学习人数: 1901
+------
+标题: 征服Spark第一季 详解Scala函数式编程
+链接: https://edu.hellobi.com/course/120/overview
+学习人数: 458
+------
+标题: Hellobi Live | 对玩家付费行为进行预测案例分享
+链接: https://edu.hellobi.com/course/122/overview
+学习人数: 646
+------
+标题: SAS可视化数据挖掘与分析
+链接: https://edu.hellobi.com/course/114/overview
+学习人数: 157
+------
+标题: 用Excel对话数据-零基础Excel商业智能分析
+链接: https://edu.hellobi.com/course/118/overview
+学习人数: 3062
+------
+标题: Hellobi Live | 6月14日20:30 Python快速上手matplotlib可视化库
+链接: https://edu.hellobi.com/course/117/overview
+学习人数: 1632
+------
+标题: R语言之shiny应用视频教程
+链接: https://edu.hellobi.com/course/116/overview
+学习人数: 269
+------
+标题: 数据分析报告制作
+链接: https://edu.hellobi.com/course/115/overview
+学习人数: 5276
+------
+标题: 网站统计分析之Google analytic介绍与应用
+链接: https://edu.hellobi.com/course/113/overview
+学习人数: 254
+------
+标题: 中级基础篇：R语言之数据探索
+链接: https://edu.hellobi.com/course/112/overview
+学习人数: 491
+------
+标题: Hellobi Live | Python实战案例分享：爬取当当网商品数据
+链接: https://edu.hellobi.com/course/111/overview
+学习人数: 2083
+------
+标题: Python3数据分析与挖掘实战 
+链接: https://edu.hellobi.com/course/110/overview
+学习人数: 980
+------
+标题: 《零基础Hadoop特训营第一期》
+链接: https://edu.hellobi.com/course/109/overview
+学习人数: 243
+------
+标题: 从零开始学习Spark免费视频教程
+链接: https://edu.hellobi.com/course/107/overview
+学习人数: 2107
+------
+标题: 中级基础篇：R语言之高级绘图
+链接: https://edu.hellobi.com/course/108/overview
+学习人数: 444
+------
+标题: ELK大数据搜索及日志分析系统原理与实践详解
+链接: https://edu.hellobi.com/course/106/overview
+学习人数: 722
+------
+标题: 用Python进行数据挖掘-从通用的数据挖掘流程到推荐系统、自然语言处理
+链接: https://edu.hellobi.com/course/104/overview
+学习人数: 2197
+------
+标题: 数据仓库建模指南系列教程升级版 
+链接: https://edu.hellobi.com/course/102/overview
+学习人数: 1029
+------
+标题: Storm基础应用案例讲解
+链接: https://edu.hellobi.com/course/101/overview
+学习人数: 301
+------
+标题: Python3零基础快速入门
+链接: https://edu.hellobi.com/course/103/overview
+学习人数: 3672
+------
+标题: 大数据BI体系架构及模型设计
+链接: https://edu.hellobi.com/course/100/overview
+学习人数: 519
+------
+标题:  Oracle基于实际应用产品演示和案例介绍
+链接: https://edu.hellobi.com/course/95/overview
+学习人数: 144
+------
+标题: 汽车电商营销020系列数据分析
+链接: https://edu.hellobi.com/course/98/overview
+学习人数: 764
+------
+标题: R语言初级入门篇：数据描述性统计分析及数据抽样
+链接: https://edu.hellobi.com/course/99/overview
+学习人数: 521
+------
+标题: Hive实战场景应用案例
+链接: https://edu.hellobi.com/course/97/overview
+学习人数: 1115
+------
+标题: Mapreduce快速入门实例解析   
+链接: https://edu.hellobi.com/course/92/overview
+学习人数: 0
+------
+标题: R语言与文本挖掘入门视频
+链接: https://edu.hellobi.com/course/90/overview
+学习人数: 166
+------
+标题: Spark核心开发讲解
+链接: https://edu.hellobi.com/course/155/overview
+学习人数: 41
+------
+标题: 初级入门篇：R语言数据对象及数据基本管理
+链接: https://edu.hellobi.com/course/94/overview
+学习人数: 738
+------
+标题: Power-BI V11 基于EXCEL数据源快速制作管理驾驶舱
+链接: https://edu.hellobi.com/course/87/overview
+学习人数: 167
+------
+标题: 大数据系列免费视频教程 【Linux、Hadoop、Spark、Kylin、Hive、HBase、Sqoop、日志分析等】
+链接: https://edu.hellobi.com/course/93/overview
+学习人数: 8667
+------
+标题: 敬请期待，SVIP课程在2018年会陆续上线15套课程；购买SVIP后可先学习已上线的7套课程
+链接: https://edu.hellobi.com/course/85/overview
+学习人数: 0
+------
+标题: MapReduce快速入门实例解析
+链接: https://edu.hellobi.com/course/91/overview
+学习人数: 726
+------
+标题: 数据挖掘的SPSS之路
+链接: https://edu.hellobi.com/course/86/overview
+学习人数: 1441
+------
+标题: 常用数据挖掘算法原理解释与应用
+链接: https://edu.hellobi.com/course/89/overview
+学习人数: 2426
+------
+标题: Tableau 精品入门视频教程【新手必看】
+链接: https://edu.hellobi.com/course/88/overview
+学习人数: 3171
+------
+标题: 数据挖掘在人工智能中的应用
+链接: https://edu.hellobi.com/course/84/overview
+学习人数: 596
+------
+标题: 数据分析与挖掘案例分析实践免费视频教程(持续更新ing)
+链接: https://edu.hellobi.com/course/83/overview
+学习人数: 1590
+------
+标题: Tableau从入门到精通
+链接: https://edu.hellobi.com/course/77/overview
+学习人数: 34
+------
+标题: Tableau数据分析实战
+链接: https://edu.hellobi.com/course/79/overview
+学习人数: 2284
+------
+标题: 爬虫利器pyspider视频教程
+链接: https://edu.hellobi.com/course/82/overview
+学习人数: 1177
+------
+标题: 用户行为分析与推荐系统设计
+链接: https://edu.hellobi.com/course/75/overview
+学习人数: 32
+------
+标题: 互联网数据分析与数据化运营实践
+链接: https://edu.hellobi.com/course/74/overview
+学习人数: 32
+------
+标题: R&Python机器学习入门
+链接: https://edu.hellobi.com/course/80/overview
+学习人数: 4066
+------
+标题: SQL Server 操作实战
+链接: https://edu.hellobi.com/course/73/overview
+学习人数: 33
+------
+标题: Python网络爬虫实战 
+链接: https://edu.hellobi.com/course/81/overview
+学习人数: 9562
+------
+标题: Excel从菜鸟到高手
+链接: https://edu.hellobi.com/course/72/overview
+学习人数: 32
+------
+标题: 数据挖掘与R语言
+链接: https://edu.hellobi.com/course/69/overview
+学习人数: 35
+------
+标题: 数据分析师职场课程
+链接: https://edu.hellobi.com/course/70/overview
+学习人数: 34
+------
+标题: 快速玩转微软Power BI系列视频教程
+链接: https://edu.hellobi.com/course/76/overview
+学习人数: 2469
+------
+标题: MySQL入门很简单（免费）
+链接: https://edu.hellobi.com/course/78/overview
+学习人数: 2667
+------
+标题: Python快速入门免费课程（持续更新中）
+链接: https://edu.hellobi.com/course/71/overview
+学习人数: 1093
+------
+标题: 数据可视化与分析报告撰写
+链接: https://edu.hellobi.com/course/67/overview
+学习人数: 35
+------
+标题: MySQL入门很简单
+链接: https://edu.hellobi.com/course/66/overview
+学习人数: 34
+------
+标题: 帆软商业智能FineBI产品介绍
+链接: https://edu.hellobi.com/course/65/overview
+学习人数: 120
+------
+标题: 润乾集算器2018培训教程
+链接: https://edu.hellobi.com/course/64/overview
+学习人数: 20
+------
+标题: Speed-BI 云平台入门到精通视频教程
+链接: https://edu.hellobi.com/course/63/overview
+学习人数: 36
+------
+标题: 21天零基础精通 QlikView 
+链接: https://edu.hellobi.com/course/62/overview
+学习人数: 103
+------
+标题: 初级入门篇：R语言快速入门免费视频教程
+链接: https://edu.hellobi.com/course/68/overview
+学习人数: 6676
+------
+标题: 统计学基础
+链接: https://edu.hellobi.com/course/59/overview
+学习人数: 91
+------
+标题: Cognos BI集群服务器架构与管理
+链接: https://edu.hellobi.com/course/56/overview
+学习人数: 19
+------
+标题: Power-BI 零售行业数据分析交流
+链接: https://edu.hellobi.com/course/57/overview
+学习人数: 127
+------
+标题: 【转】如何学习英语口语
+链接: https://edu.hellobi.com/course/55/overview
+学习人数: 6
+------
+标题: FineReport 8.0 基础培训视频
+链接: https://edu.hellobi.com/course/60/overview
+学习人数: 401
+------
+标题: FineBI 4.0入门视频教程
+链接: https://edu.hellobi.com/course/61/overview
+学习人数: 578
+------
+标题: 永洪科技2015年度用户大会嘉宾演讲视频
+链接: https://edu.hellobi.com/course/53/overview
+学习人数: 196
+------
+标题: Oracle 数据库入门教程
+链接: https://edu.hellobi.com/course/58/overview
+学习人数: 1651
+------
+标题: Power-BI免费版培训视频
+链接: https://edu.hellobi.com/course/52/overview
+学习人数: 250
+------
+标题: 数据仓库建模指南系列教程 【结合大量项目实践的长篇教程原创】
+链接: https://edu.hellobi.com/course/54/overview
+学习人数: 5796
+------
+标题: Cognos 10 高级开发和应用课程
+链接: https://edu.hellobi.com/course/50/overview
+学习人数: 730
+------
+标题: Oracle 入门学习视频
+链接: https://edu.hellobi.com/course/32/overview
+学习人数: 1143
+------
+标题: Informatica Tuning 调优完整系列课程
+链接: https://edu.hellobi.com/course/49/overview
+学习人数: 849
+------
+标题: 永洪敏捷BI精品培训教程
+链接: https://edu.hellobi.com/course/31/overview
+学习人数: 1338
+------
+标题: INFORMATICA 从入门到项目实际开发视频教程
+链接: https://edu.hellobi.com/course/26/overview
+学习人数: 72
+------
+标题: Cognos 从入门到精通高级视频教程【免费更新】
+链接: https://edu.hellobi.com/course/30/overview
+学习人数: 3268
+------
+标题: OBIEE 深入浅出精品视频教程【免费持续更新】
+链接: https://edu.hellobi.com/course/29/overview
+学习人数: 2037
+------
+标题: SQL Server 2012 性能优化技术教程
+链接: https://edu.hellobi.com/course/23/overview
+学习人数: 0
+------
+标题: Smartbi电子表格版入门到精通教程—新一代Java Web 报表工具
+链接: https://edu.hellobi.com/course/28/overview
+学习人数: 1209
+------
+标题: 微软BI SSIS 2012 ETL 控件与案例精讲
+链接: https://edu.hellobi.com/course/21/overview
+学习人数: 192
+------
+标题: SAP BO Dashboard 初级培训视频教程
+链接: https://edu.hellobi.com/course/27/overview
+学习人数: 1495
+------
+标题: IBM Cognos 从入门到精通高级视频教程
+链接: https://edu.hellobi.com/course/19/overview
+学习人数: 117
+------
+标题: SAP BO Dashboards新手入门视频教程【免费】
+链接: https://edu.hellobi.com/course/25/overview
+学习人数: 832
+------
+标题: INFORMATICA 入门开发实战视频教程
+链接: https://edu.hellobi.com/course/24/overview
+学习人数: 3169
+------
+标题: OBIEE 深入浅出精品视频教程
+链接: https://edu.hellobi.com/course/17/overview
+学习人数: 178
+------
+标题: SSRS 2012 Metro UI 高端报表视频教程
+链接: https://edu.hellobi.com/course/15/overview
+学习人数: 200
+------
+标题: 微软BI SSIS ETL 控件与案例精讲课程【免费】
+链接: https://edu.hellobi.com/course/22/overview
+学习人数: 1965
+------
+标题: IBM Cognos 在线学习精品课程【数据仓库、FM建模、RS高级开发、TR建模】
+链接: https://edu.hellobi.com/course/13/overview
+学习人数: 0
+------
+标题: 问答社区微软BI问题及性能优化工具合集
+链接: https://edu.hellobi.com/course/16/overview
+学习人数: 531
+------
+标题: SQL SERVER 2012 从零开始学数据库管理开发视频教程
+链接: https://edu.hellobi.com/course/20/overview
+学习人数: 3923
+------
+标题: 微软 BI SSRS WIN8 Metro 高端报表教程【免费持续更新】
+链接: https://edu.hellobi.com/course/18/overview
+学习人数: 1548
+------
+标题: 天善内部精品Cognos教程【体系结构、组件介绍、固定报表制作详解】
+链接: https://edu.hellobi.com/course/12/overview
+学习人数: 1424
+------
+标题: 天善问答 Oracle BIEE 常见问题视频教程【连载中】
+链接: https://edu.hellobi.com/course/14/overview
+学习人数: 883
+------
+标题: 数据分析师成长路上的必备能力（试看）
+链接: https://edu.hellobi.com/course/10/overview
+学习人数: 836
+------
+标题: 商业智能工具，基础、行业应用，职业发展系列教程【2013年内部资料】
+链接: https://edu.hellobi.com/course/11/overview
+学习人数: 1552
+------
+标题: 数据仓库精品教程【特点，数据仓库和ETL设计思想、架构(自上而下、自下而上)、常用概念】
+链接: https://edu.hellobi.com/course/9/overview
+学习人数: 4693
+------
+标题: Oracle BIEE 提高视频教程【时间序列函数，多表头制作，数据同步】
+链接: https://edu.hellobi.com/course/7/overview
+学习人数: 1225
+------
+标题: 微软商业智能实战入门及提高视频教程
+链接: https://edu.hellobi.com/course/8/overview
+学习人数: 278
+------
+标题: 咖啡姐 BIEE 11G 精品入门视频教程【新手必看】
+链接: https://edu.hellobi.com/course/5/overview
+学习人数: 2776
+------
+标题: IBM Cognos 中级视频教程 【模型和报表教程】
+链接: https://edu.hellobi.com/course/6/overview
+学习人数: 1361
+------
+标题: 中级基础篇：R语言绘图基础
+链接: https://edu.hellobi.com/course/105/overview
+学习人数: 470
+------
+标题: BI基础知识漫谈【献给所以热爱商业智能的朋友】
+链接: https://edu.hellobi.com/course/4/overview
+学习人数: 2557
+------
+标题: MS SQL数据库入门及初级BI教程
+链接: https://edu.hellobi.com/course/2/overview
+学习人数: 1819
+------
+标题: IBM Cognos 初级教程 【入门必学】
+链接: https://edu.hellobi.com/course/3/overview
+学习人数: 2754
+------
+标题: 初级入门篇：R语言数据导入导出
+链接: https://edu.hellobi.com/course/96/overview
+学习人数: 569
+------
+标题: 奥威Power-BI
+链接: https://edu.hellobi.com/course/51/overview
+学习人数: 191
+------
