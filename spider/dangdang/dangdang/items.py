@@ -13,4 +13,6 @@ class DangdangItem(scrapy.Item):
     # name = scrapy.Field()
     title = scrapy.Field()
     link = scrapy.Field()
+    cost = scrapy.Field()
+    bookshop = scrapy.Field()
     comment = scrapy.Field()
